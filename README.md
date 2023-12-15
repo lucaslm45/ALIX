@@ -3,7 +3,7 @@ ALIX (AI-powered Learning and Interactive Experience) is a project developed and
 
 This project seeks the development of a learning assistant robot which is a toy-like physical conversational agent, powered by AI, to help students achieve their learning objectives while increasing motivation and decreasing boredom in the process.
 
-The **blog** can be accessed by this link: https://bit.ly/IW-3-ALIX
+The **blog** can be accessed by this link: https://bit.ly/notionalix
 
 The **blog** also can be accessed by this link: https://blogcore.notion.site/blogcore/64abe3eab3754afc923f0894b636d895?v=6a92c5666c944acf9ea86ad5eab3fc40
 
